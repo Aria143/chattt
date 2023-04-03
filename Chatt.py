@@ -6,7 +6,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 openai.api_key = "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"
 
 # Set up Telegram bot token
-bot_token = "INSERT_YOUR_TELEGRAM_BOT_TOKEN_HERE"
+bot_token = "5935054751:AAG84Bhcweo3RyHjaljrs12hIEXYEHvfQxw"
 bot = telegram.Bot(token=bot_token)
 
 # Define the function that generates responses using OpenAI GPT-3
