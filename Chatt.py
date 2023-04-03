@@ -3,7 +3,7 @@ import telegram
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # Set up OpenAI API key
-openai.api_key = "INSERT_YOUR_OPENAI_API_KEY_HERE"
+openai.api_key = "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"
 
 # Set up Telegram bot token
 bot_token = "INSERT_YOUR_TELEGRAM_BOT_TOKEN_HERE"
